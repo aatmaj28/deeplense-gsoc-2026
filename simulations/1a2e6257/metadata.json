@@ -1,0 +1,39 @@
+{
+  "run_id": "1a2e6257",
+  "request": {
+    "substructure_type": "vortex",
+    "model_config_name": "Model_I",
+    "num_images": 8,
+    "halo_mass": 1000000000000.0,
+    "z_halo": 0.5,
+    "z_source": 1.5,
+    "axion_mass": 1e-23,
+    "vortex_mass": 30000000000.0,
+    "cosmology": {
+      "H0": 70.0,
+      "Om0": 0.3,
+      "Ob0": 0.05
+    }
+  },
+  "num_generated": 8,
+  "image_shape": [
+    150,
+    150
+  ],
+  "pixel_value_range": [
+    0.0,
+    613.0
+  ],
+  "timestamp": "2026-03-21T21:20:24.382018",
+  "output_dir": "simulations/1a2e6257",
+  "filenames": [
+    "vortex_0000.npy",
+    "vortex_0001.npy",
+    "vortex_0002.npy",
+    "vortex_0003.npy",
+    "vortex_0004.npy",
+    "vortex_0005.npy",
+    "vortex_0006.npy",
+    "vortex_0007.npy"
+  ]
+}
